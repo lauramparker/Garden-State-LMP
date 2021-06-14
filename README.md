@@ -3,11 +3,11 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-blue)
 
 
-> React-Weather-App is a redux-style React application featuring advanced React hooks, providers, > react-bootstrap and a third-party API call to OpenWeatherMap API.  The application allows a user to:
+> Garden-State is a MERN application featuring React redux, advanced React hooks, providers, MongoDB database, and React-bootstrap. The application allows a user to design gardens with specific dimensions by selecting plants from a database and assigning them to individual plots.  Plant spacing is automatically calculated based on the selected plants. Features include:
 
-- Search for a City in the Search Box
-- See the City's Current & Forecasted Weather
-- Retrieve previous searches and related data from the "My Places" list
+- Designing new gardens with plots cooresponding to garden dimensions (CSS Grids)
+- Adding plants to gardens and viewing cooresponding plant data (including maximum plants for the plot)
+- Editing and deleting gardens from My Gardens page
 
 ## Demo
 ![garden state demo](https://github.com/lauramparker/Garden-State-LMP/blob/master/client/public/Garden%20State.gif)
