@@ -10,7 +10,7 @@
 - Retrieve previous searches and related data from the "My Places" list
 
 ## Demo
-![garden state demo](https://github.com/lauramparker/Garden-State-LMP/blob/main/public/Garden%20State.gif)
+![garden state demo](https://github.com/lauramparker/Garden-State-LMP/blob/master/client/public/Garden%20State.gif)
 
 ## Technologies Used
 - [ReactJS](https://reactjs.org)
