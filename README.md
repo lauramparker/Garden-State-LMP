@@ -40,17 +40,17 @@ Use this project as an example of a fullstack MERN application
 ## Credits
 Laura Parker @lauramparker (author)
 
-This porject is an expansion of the OSU Bootcamp Proejct 3 (see https://github.com/lauramparker/GardenGrow_Project3) with Team Members: 
-### Laura
+This porject is an expansion of the [OSU Bootcamp Proejct 3](https://github.com/lauramparker/GardenGrow_Project3) with Team Members: 
+Laura
 Github: [lauramparker](https://github.com/lauramparker)  
 
-### Taylor
+Taylor
 Github: [taylorceneviva](https://github.com/taylorceneviva)
 
-### Eric 
+Eric 
 Github: [ehuieric](https://github.com/ehuieric)
 
-### Efrain
+Efrain
 Github: [jesusefraingonzalez](https://github.com/jesusefraingonzalez)
 
 ## License
