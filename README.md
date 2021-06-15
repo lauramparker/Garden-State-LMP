@@ -4,10 +4,10 @@
 
 
 > Garden-State is a MERN application featuring React redux, advanced React hooks, providers, MongoDB database, and React-bootstrap. The application allows a user to design gardens with specific dimensions by selecting plants from a database and assigning them to individual plots.  Plant spacing is automatically calculated based on the selected plants. Features include:
-
-- Designing new gardens with plots cooresponding to garden dimensions (CSS Grids)
-- Adding plants to gardens and viewing cooresponding plant data (including maximum plants for the plot)
-- Editing and deleting gardens from My Gardens page
+>
+> - Designing new gardens with plots cooresponding to garden dimensions (CSS Grids)
+> - Adding plants to gardens and viewing cooresponding plant data (including maximum plants for the plot)
+> - Editing and deleting gardens from My Gardens page
 
 ## Demo
 ![garden state demo](https://github.com/lauramparker/Garden-State-LMP/blob/master/client/public/Garden%20State.gif)
